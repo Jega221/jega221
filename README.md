@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Abubakar Sani Jega
+#  Hi, I'm Abubakar Sani Jega
 
-🎯 **AI Developer | Machine Learning Engineer | Tech Enthusiast**  
+**AI Developer | Machine Learning Engineer | Tech Enthusiast**  
 I'm passionate about building intelligent systems that solve real-world problems using AI and data science. From training deep learning models to deploying smart APIs, I enjoy every step of turning data into impact.
 
 ---
 
-## 🧠 Tech Stack & Tools
+## Tech Stack & Tools
 
 - **Languages:** Python, JavaScript, TypeScript  
 - **AI/ML:** TensorFlow, PyTorch, Scikit-learn, OpenCV, Keras  
@@ -17,7 +17,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ---
 
-## 🛠️ Featured Projects
+## Featured Projects
 
 - **Face Recognition System**  
   Real-time facial recognition using CNNs and OpenCV.
@@ -30,7 +30,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 - **Portfolio:** [abubakarsani.dev](https://abubakarsani.dev) *(or replace with your actual domain)*  
 - **LinkedIn:** [linkedin.com/in/abubakarsani](https://linkedin.com/in/abubakarsani)  
