@@ -8,11 +8,11 @@ I'm passionate about building intelligent systems that solve real-world problems
 ## Tech Stack & Tools
 
 - **Languages:** Python, JavaScript, TypeScript  
-- **AI/ML:** TensorFlow, PyTorch, Scikit-learn, OpenCV, Keras  
+- **AI/ML:** PyTorch 
 - **Data Science:** Pandas, NumPy, Matplotlib, Jupyter  
-- **Web:** FastAPI, Flask, React, Next.js, Tailwind CSS  
-- **Databases:** MongoDB, Firebase, PostgreSQL  
-- **DevOps:** Docker, GitHub Actions, CI/CD, Linux  
+- **Web:** JavaSript, React, Next.js, Tailwind CSS  
+- **Databases:** PostgreSQL  
+- **DevOps:**  GitHub Actions, CI/CD
 - **Cloud:** AWS, Google Cloud, Vercel, Netlify  
 
 ---
@@ -32,10 +32,10 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ## Let's Connect
 
-- **Portfolio:** [abubakarsani.dev](https://abubakarsani.dev) *(or replace with your actual domain)*  
-- **LinkedIn:** [linkedin.com/in/abubakarsani](https://linkedin.com/in/abubakarsani)  
-- **Twitter/X:** [@abubakarsanii](https://twitter.com/abubakarsanii)  
-- **Email:** info@abubakarsani.dev
+- **Portfolio:** [abubakarsani.dev](https://jegabig.netlify.app/) *(or replace with your actual domain)*  
+- **LinkedIn:** [linkedin.com/in/abubakarsani](https://www.linkedin.com/in/abubakar-sani-391332170/)  
+- **Twitter/X:** [@jegabig](https://x.com/jegabig)  
+- **Email:** asjega11@gmail.com
 
 ---
 
