@@ -32,7 +32,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ## Let's Connect
 
-- **Portfolio:** [jegabig.netlify.app](https://jegabig.netlify.app/) *(or replace with your actual domain)*  
+- **Portfolio:** [jegabig.netlify.app](https://jegabig.netlify.app/) 
 - **LinkedIn:** [linkedin.com/in/abubakarsani](https://www.linkedin.com/in/abubakar-sani-391332170/)  
 - **Twitter/X:** [@jegabig](https://x.com/jegabig)  
 - **Email:** asjega11@gmail.com
