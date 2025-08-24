@@ -1,32 +1,33 @@
 #  Hi, I'm Abubakar Sani Jega
 
-**AI Developer | Machine Learning Engineer | Tech Enthusiast**  
-I'm passionate about building intelligent systems that solve real-world problems using AI and data science. From training deep learning models to deploying smart APIs, I enjoy every step of turning data into impact.
+** Web Developer | AI Engineer | Tech Enthusiast**  
+I'm a web developer using Nextjs and AI tools to build intelligent web application .
 
 ---
 
 ## Tech Stack & Tools
 
-- **Languages:** Python, JavaScript, TypeScript  
-- **AI/ML:** PyTorch 
+- **Languages:** JavaScript, TypeScript, python, PHP.   
+- **AI/ML:** RAG, Langchain, PyTorch 
 - **Data Science:** Pandas, NumPy, Matplotlib, Jupyter  
-- **Web:** JavaSript, React, Next.js, Tailwind CSS  
-- **Databases:** PostgreSQL  
+- **Web:** JavaSript, Typescript,  Next.js, React, Tailwind CSS  
+- **Databases:** Superbase  
 - **DevOps:**  GitHub Actions, CI/CD
-- **Cloud:** AWS, Google Cloud, Vercel, Netlify  
+- **Cloud:** Vercel, Netlify, AWS, Google Cloud
 
 ---
 
 ## Featured Projects
 
+- **A cusroms clearance web app**  
+  An interactive website for a custom broker company that clear importt goods.
+
+- **AI stock adviser**  
+  An AI powered app that help you invest wisely, Using Openai  model, Polygon API and Nextjs.
+  
 - **Face Recognition System**  
-  Real-time facial recognition using CNNs and OpenCV.
+  using  PyTorch and google colab.
 
-- **AI Chatbot**  
-  Conversational assistant powered by NLP and intent detection.
-
-- **ML Analytics Dashboard**  
-  Interactive dashboard for visualizing machine learning insights.
 
 ---
 
