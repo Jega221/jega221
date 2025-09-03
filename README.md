@@ -1,6 +1,6 @@
 #  Hi, I'm Abubakar Sani Jega
 
-** Web Developer | AI Engineer | Tech Enthusiast**  
+** Web Developer | AI Tech Enthusiast**  
 I'm a web developer using Nextjs and AI tools to build intelligent web application .
 
 ---
